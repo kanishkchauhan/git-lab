@@ -126,11 +126,7 @@ nothing to commit, working tree clean
 
 
 Answer 10:
-Full Name: Kanishk Chauhan
-GitHub username: Kanishk Chauhan
-
-Email Address: kc303218@ohio.edu
-Message: All answers are recorded in answers.md file
+No, the changes did not reflect in my local copy
 
 
 Answer 11:
