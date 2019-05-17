@@ -152,13 +152,16 @@ Class: CS 5900-100
 
 
 Answer 13:
-Get-ChildItem : Parameter cannot be processed because the parameter name 'a' is ambiguous. Possible matches include:
--Attributes -Directory -File -Hidden -ReadOnly -System.
-At line:1 char:4
-+ ls -a
-+    ~~
-    + CategoryInfo          : InvalidArgument: (:) [Get-ChildItem], ParameterBindingException
-    + FullyQualifiedErrorId : AmbiguousParameter,Microsoft.PowerShell.Commands.GetChildItemCommand
+Directory: C:\Users\Kanishk\2400\git-lab
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        5/16/2019   8:17 AM                .vscode
+d-----        5/16/2019   8:17 AM                git-lab-2
+-a----        5/17/2019   3:38 AM           5055 answers.md
+-a----        5/16/2019   8:50 AM            282 README.md
+
 
     
            
